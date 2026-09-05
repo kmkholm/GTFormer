@@ -1,0 +1,40 @@
+cff-version: 1.2.0
+message: "If you use this code or the released score files, please cite the paper below."
+title: "GT-Former: Group-Token Transformers and Hybrid Rank Fusion for Evasive and Novel-Family Malware Detection"
+type: software
+repository-code: "https://github.com/kmkholm/GTFormer"
+license: MIT
+version: 1.0.0
+date-released: 2026-09-06
+authors:
+  - family-names: Tawfik
+    given-names: Mohammed
+    affiliation: "Department of Cyber Security, Faculty of Information Technology, Ajloun National University, Jordan"
+  - family-names: Al-sellami
+    given-names: Belal
+    affiliation: "Faculty of Computer and Information Technology, Sana'a University, Yemen"
+  - family-names: Heshmat
+    given-names: Mohamed
+    affiliation: "Department of Data Science & Artificial Intelligence, Faculty of Information Technology, Ajloun National University, Jordan"
+  - family-names: Fathi
+    given-names: Islam S.
+    affiliation: "Department of Computer Science, Faculty of Information Technology, Ajloun National University, Jordan"
+  - family-names: Shaban
+    given-names: Warda M.
+    affiliation: "Faculty of Artificial Intelligence and Informatics, Horus University, Egypt"
+preferred-citation:
+  type: article
+  title: "GT-Former: Group-Token Transformers and Hybrid Rank Fusion for Evasive and Novel-Family Malware Detection"
+  year: 2026
+  authors:
+    - family-names: Tawfik
+      given-names: Mohammed
+    - family-names: Al-sellami
+      given-names: Belal
+    - family-names: Heshmat
+      given-names: Mohamed
+    - family-names: Fathi
+      given-names: Islam S.
+    - family-names: Shaban
+      given-names: Warda M.
+  notes: "Under review"

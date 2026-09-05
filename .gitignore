@@ -1,0 +1,24 @@
+# data and large artefacts (attached to the GitHub Release instead)
+data/
+data_lamda/
+data_bodmas/
+features/
+preprocessed/
+*.npz
+*.pt
+*.dat
+*.parquet
+*.zip
+
+# build / cache
+__pycache__/
+*.pyc
+paper/*.aux
+paper/*.bbl
+paper/*.blg
+paper/*.log
+paper/*.out
+paper/*.fls
+paper/*.fdb_latexmk
+paper/*.synctex.gz
+.ipynb_checkpoints/

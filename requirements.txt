@@ -1,0 +1,11 @@
+numpy>=2.2
+pandas>=3.0
+pyarrow>=25.0
+scikit-learn>=1.9
+lightgbm>=4.6
+torch>=2.12
+optuna>=4.9
+shap>=0.52
+matplotlib>=3.11
+thrember==0.1.0
+signify==0.7.1
